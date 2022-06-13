@@ -1,0 +1,9 @@
+This is the first string.
+ 
+Studing git 
+
+uno 
+
+dos
+
+tres 
